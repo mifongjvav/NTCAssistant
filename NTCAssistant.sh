@@ -29,7 +29,7 @@ read -p "基岩版还是网易版?(输入1或2)"
 # 根据输入的数字执行不同的操作
 if [ "$num" -eq 1 ]; then
 # 切换目录
-cd /data/user/0/com.mojang.minecraftpe/files/games/com.netease/minecraftpe/
+cd /data/user/0/com.mojang.minecraftpe/files/games/com.mojang/minecraftpe/
 
 # 写入ctrl_enableNewTouchControlSchemes:0
 echo "ctrl_enableNewTouchControlSchemes:0" >> "options.txt"
