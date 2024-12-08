@@ -1,5 +1,5 @@
-这是NTCAssistant的群文件版
-与GitHub版的区别↓
+这是NTCAssistant的Github版
+与群文件版的区别↓
         GitHub版  群文件版
 更新速度：快          慢
 开源：    是          是
